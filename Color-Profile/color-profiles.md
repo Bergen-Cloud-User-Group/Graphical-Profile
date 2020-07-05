@@ -1,5 +1,6 @@
 # BCUG - Primary Color Palette
 ## Primary Colors (In prioritized order):
+![Image Of The Color Palette](Color-Palette.png)
 
 \#63b7af
 
